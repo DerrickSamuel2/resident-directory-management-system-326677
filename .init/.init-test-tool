@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/resident-directory-management-system-326677/resident_directory_backend"
+}
